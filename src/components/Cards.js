@@ -22,6 +22,14 @@ function Cards() {
               path="/services"
             />
           </ul>
+          <ul className="cards__items">
+            <CardsItem
+              src="https://media.tenor.com/iqFsWpIvdYUAAAAC/valorant-neon.gif"
+              text="On va vous envoyer en game avec une personne appeler Brice celui-ci vous fera derank a une vitesse folle !"
+              label="Le boost inverser"
+              path="/services"
+            />
+          </ul>
           <ul className="cards__items"></ul>
         </div>
       </div>

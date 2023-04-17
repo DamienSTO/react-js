@@ -28,18 +28,18 @@ function Footer() {
       <div class="footer-links">
         <div className="footer-link-wrapper">
           <div class="footer-link-items">
-            <h2>Sur nous</h2>
+            <h2>Sur nous :</h2>
             <Link to="/sign-up">OTP Neon</Link>
             <Link to="/">Très gentil</Link>
             <Link to="/">Notre cliente préf (Shira)</Link>
           </div>
           <div class="footer-link-items">
-            <h2> Nous contacter </h2>
+            <h2> Nous contacter :</h2>
             <Link to="/">Contact</Link>
             <Link to="/">Support</Link>
           </div>
           <div class="footer-link-items">
-            <h2>Social Media</h2>
+            <h2>Social Media :</h2>
             <a
               target="_blank"
               href="https://www.instagram.com/surementlasalade/"
