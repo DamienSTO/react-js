@@ -42,6 +42,7 @@ function Footer() {
             <h2>Social Media :</h2>
             <a
               target="_blank"
+              rel="noreferrer"
               href="https://www.instagram.com/surementlasalade/"
             >
               Instagram
